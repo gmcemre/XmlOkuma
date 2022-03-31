@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<haberler>
+	<baslik>Spor Haber Xml Servisi</baslik>
+	<aciklama>
+		Spor haberlerinin anlık olarak paylaşıldığı Xml servisi
+	</aciklama>
+	<link>http://www.fanatik.com</link>
+	<tarih>23.03.2022 - Çarşamba</tarih>
+
+	<haber>
+		<baslik>Beşiktaş'a müthiş rakam! 50 milyon euro</baslik>
+		<aciklama>Beşiktaş'ta bazı oyuncuların yurt dışından gelen tekliflerin toplamda 45-50 milyon Euro'ya ulaştığı belirlendi.</aciklama>
+	</haber>
+	<haber>
+		<baslik>Yıldız oyuncunun şok sakatlığı.Euro 2016'yı kaçıracak.</baslik>
+		<aciklama>Borussia Dortmund'un Türk asıllı Alman futbolcusu İlkay Gündoğan sakatlığı sebebiyle yazın oynanacak olan Euro 2016 da forma giyemeyecek.</aciklama>
+	</haber>
+	<haber>
+		<baslik>Guardiola noktayı koydu.Denayer kararı!</baslik>
+		<aciklama>Guardiola Galatasaray'lı Denayer'i transfer etmek için takımın bütün mal varlığını ortaya koyabileceğini açıkladı.</aciklama>
+	</haber>
+	<haber>
+		<baslik>Fenerbahçe'nin yeni hocası açıklandı.</baslik>
+		<aciklama>Fenerbahçe önümüzdeki sezon takımın başına Löw'ü getirebilmek için ellerinde geleni yapacaklarını açıkladı.</aciklama>
+	</haber>
+	<haber>
+		<baslik>Son dakika gelişmesi.Kadroya alınmadı.</baslik>
+		<aciklama>Galatasaray'da forma giyen Sneijder ve Fenerbahçe'de oynayan Van Persie İrlanda,Polonya ve Avusturya ile oynanacak hazırlık maçlarının kadrosuna alınmadı.</aciklama>
+	</haber>
+	
+</haberler> 
